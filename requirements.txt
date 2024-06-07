@@ -3,7 +3,7 @@ main
 2. 65% section | done
 3. welcome section | done
 4. portfolio section | done
-5. subscribe section 
+5. subscribe section | done
 6. footer section
 
 bonus
