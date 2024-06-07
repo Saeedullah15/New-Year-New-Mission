@@ -2,13 +2,13 @@ main
 1. banner section | done
 2. 65% section | done
 3. welcome section | done
-4. portfolio section
-5. subscribe section
+4. portfolio section | done
+5. subscribe section 
 6. footer section
 
 bonus
 1. coming soon section
-2. hover effect in portfolio section images
+2. hover effect in portfolio section images | done
 
 submission
 1. github link

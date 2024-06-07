@@ -116,3 +116,50 @@ main {
     margin-top: 40px;
     margin-left: 30px;
 }
+
+/* portfolio section styles */
+.portfolio {
+    margin-bottom: 120px;
+}
+
+.portfolio-text h4 {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.portfolio-text h2 {
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+
+.portfolio-text small {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0%;
+    margin-bottom: 25px;
+    display: block;
+}
+
+.portfolio-images {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.portfolio-images div {
+    display: flex;
+    gap: 20px;
+}
+
+.portfolio-images div img:hover {
+    border: 2px solid rgb(227, 5, 5);
+    border-radius: 16px;
+}
