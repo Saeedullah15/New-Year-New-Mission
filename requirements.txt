@@ -4,10 +4,10 @@ main
 3. welcome section | done
 4. portfolio section | done
 5. subscribe section | done
-6. footer section
+6. footer section | done
 
 bonus
-1. coming soon section
+1. coming soon section 
 2. hover effect in portfolio section images | done
 
 submission
