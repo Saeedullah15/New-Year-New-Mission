@@ -1,0 +1,15 @@
+main
+1. banner section
+2. 65% section
+3. welcome section
+4. portfolio section
+5. subscribe section
+6. footer section
+
+bonus
+1. coming soon section
+2. hover effect in portfolio section images
+
+submission
+1. github link
+2. website link
