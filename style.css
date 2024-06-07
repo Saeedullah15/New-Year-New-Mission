@@ -11,7 +11,7 @@ main {
 
 /* banner section styles */
 .banner {
-    height: 600px;
+    height: 570px;
     margin-top: 50px;
     background-image: linear-gradient(180.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%), url("images/banners/Banner Image.png");
     border-radius: 16px;
@@ -36,4 +36,39 @@ main {
 .banner-text h2 {
     font-size: 72px;
     font-weight: 900;
+}
+
+/* discount section styles */
+.discount-text {
+    text-align: center;
+}
+
+.discount-text h1 {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 68px;
+    font-weight: 900;
+    margin-top: 60px;
+    margin-bottom: 35px;
+}
+
+.discount-text h4 {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.discount-text h2 {
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.discount-img {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px 100px 0px;
 }

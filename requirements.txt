@@ -1,6 +1,6 @@
 main
-1. banner section
-2. 65% section
+1. banner section | done
+2. 65% section | done
 3. welcome section
 4. portfolio section
 5. subscribe section
