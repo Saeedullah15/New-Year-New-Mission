@@ -72,3 +72,47 @@ main {
     justify-content: center;
     margin: 50px 0px 100px 0px;
 }
+
+/* welcome section styles */
+.welcome {
+    height: 600px;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 100%), url("images/banners/Vectorrr.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding: 0px 120px;
+    margin-bottom: 120px;
+}
+
+.welcome-text {
+    color: white;
+}
+
+.welcome-text h2 {
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+.welcome-text small {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    display: block;
+}
+
+.welcome-text a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-left: 30px;
+}
