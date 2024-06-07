@@ -280,3 +280,55 @@ main {
 .footer-2 img {
     width: 4%;
 }
+
+/* coming soon section styles */
+.coming-soon {
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.coming-soon-1 p {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 25px;
+}
+
+.coming-soon-1 h3 {
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 50px;
+}
+
+.coming-soon-1 small,
+.coming-soon-3 small {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.coming-soon-3 h3 {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 50px;
+    margin-bottom: 15px;
+}
+
+.coming-soon-3 img {
+    width: 30%;
+    margin-top: 30px;
+}
+
+.coming-soon-2 {
+    border: 15px solid rgb(255, 0, 0);
+    border-radius: 50%;
+    padding: 20px;
+}

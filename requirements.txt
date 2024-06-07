@@ -7,7 +7,7 @@ main
 6. footer section | done
 
 bonus
-1. coming soon section 
+1. coming soon section | done
 2. hover effect in portfolio section images | done
 
 submission
